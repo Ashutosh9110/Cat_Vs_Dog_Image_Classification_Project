@@ -1,4 +1,4 @@
-# Cat_Vs_Dog_Image_Classification_Project
+# Cat_Vs_Dog_Image_Classification_Project_using_CNN
 
 The Dogs vs. Cats dataset is a standard computer vision dataset that involves classifying photos as either containing a dog or cat.
 
